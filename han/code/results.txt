@@ -1,0 +1,676 @@
+ratio:0//seed:0//lr:0.0004//weight_decay:0.0001//num_heads:[1]//dropout:0.4
+Test Micro f1 0.5430 | Test Macro f1 0.5324 | Test auc 0.7158
+ratio:1//seed:0//lr:0.0004//weight_decay:0.0001//num_heads:[1]//dropout:0.4
+Test Micro f1 0.6230 | Test Macro f1 0.5771 | Test auc 0.7499
+ratio:2//seed:0//lr:0.0004//weight_decay:0.0001//num_heads:[1]//dropout:0.4
+Test Micro f1 0.6090 | Test Macro f1 0.5785 | Test auc 0.7469
+
+ratio:0//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[1]//dropout:0.4
+Test Micro f1 0.5500 | Test Macro f1 0.5386 | Test auc 0.7214
+ratio:1//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[1]//dropout:0.4
+Test Micro f1 0.6310 | Test Macro f1 0.5851 | Test auc 0.7529
+ratio:2//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[1]//dropout:0.4
+Test Micro f1 0.6060 | Test Macro f1 0.5801 | Test auc 0.7592
+ratio:0//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[2]//dropout:0.4
+Test Micro f1 0.5500 | Test Macro f1 0.5365 | Test auc 0.7220
+ratio:1//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[2]//dropout:0.4
+Test Micro f1 0.5960 | Test Macro f1 0.5531 | Test auc 0.7404
+ratio:2//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[2]//dropout:0.4
+Test Micro f1 0.6120 | Test Macro f1 0.5512 | Test auc 0.7477
+
+ratio:0//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[1]//dropout:0.3
+Test Micro f1 0.5490 | Test Macro f1 0.5377 | Test auc 0.7222
+ratio:1//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[1]//dropout:0.3
+Test Micro f1 0.6330 | Test Macro f1 0.5889 | Test auc 0.7567
+ratio:2//seed:0//lr:0.0004//weight_decay:1e-05//num_heads:[1]//dropout:0.3
+Test Micro f1 0.6130 | Test Macro f1 0.5850 | Test auc 0.7571
+
+ratio:0//seed:0//lr:0.0002//weight_decay:1e-05//num_heads:[1]//dropout:0.3
+Test Micro f1 0.4650 | Test Macro f1 0.4611 | Test auc 0.7236
+ratio:1//seed:0//lr:0.0002//weight_decay:1e-05//num_heads:[1]//dropout:0.3
+Test Micro f1 0.5540 | Test Macro f1 0.5369 | Test auc 0.7530
+ratio:2//seed:0//lr:0.0002//weight_decay:1e-05//num_heads:[1]//dropout:0.3
+Test Micro f1 0.5450 | Test Macro f1 0.5325 | Test auc 0.7548
+ratio:0//seed:0//lr:0.01//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7460 | Test Macro f1 0.5606 | Test auc 0.7830
+ratio:1//seed:0//lr:0.01//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6988 | Test auc 0.8922
+ratio:2//seed:0//lr:0.01//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6860 | Test auc 0.8795
+ratio:0//seed:0//lr:0.0099//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7430 | Test Macro f1 0.5578 | Test auc 0.7845
+ratio:1//seed:0//lr:0.0099//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6961 | Test auc 0.8920
+ratio:2//seed:0//lr:0.0099//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6857 | Test auc 0.8794
+ratio:0//seed:0//lr:0.0098//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7370 | Test Macro f1 0.5501 | Test auc 0.7794
+ratio:1//seed:0//lr:0.0098//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6953 | Test auc 0.8918
+ratio:2//seed:0//lr:0.0098//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6857 | Test auc 0.8794
+ratio:0//seed:0//lr:0.0097//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7410 | Test Macro f1 0.5553 | Test auc 0.7809
+ratio:1//seed:0//lr:0.0097//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6931 | Test auc 0.8917
+ratio:2//seed:0//lr:0.0097//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6860 | Test auc 0.8794
+ratio:0//seed:0//lr:0.0096//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7470 | Test Macro f1 0.5608 | Test auc 0.7826
+ratio:1//seed:0//lr:0.0096//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6930 | Test auc 0.8916
+ratio:2//seed:0//lr:0.0096//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6860 | Test auc 0.8794
+ratio:0//seed:0//lr:0.0095//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7370 | Test Macro f1 0.5504 | Test auc 0.7780
+ratio:1//seed:0//lr:0.0095//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7840 | Test Macro f1 0.6921 | Test auc 0.8951
+ratio:2//seed:0//lr:0.0095//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6867 | Test auc 0.8793
+ratio:0//seed:0//lr:0.0094//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7390 | Test Macro f1 0.5527 | Test auc 0.7795
+ratio:1//seed:0//lr:0.0094//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7870 | Test Macro f1 0.6954 | Test auc 0.8950
+ratio:2//seed:0//lr:0.0094//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6855 | Test auc 0.8793
+ratio:0//seed:0//lr:0.0093//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6550 | Test Macro f1 0.3982 | Test auc 0.7612
+ratio:1//seed:0//lr:0.0093//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7900 | Test Macro f1 0.6944 | Test auc 0.8949
+ratio:2//seed:0//lr:0.0093//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6816 | Test auc 0.8793
+ratio:0//seed:0//lr:0.0092//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6550 | Test Macro f1 0.3985 | Test auc 0.7604
+ratio:1//seed:0//lr:0.0092//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7960 | Test Macro f1 0.6976 | Test auc 0.8947
+ratio:2//seed:0//lr:0.0092//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6824 | Test auc 0.8793
+ratio:0//seed:0//lr:0.0091//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7020 | Test Macro f1 0.5064 | Test auc 0.7760
+ratio:1//seed:0//lr:0.0091//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.7031 | Test auc 0.8946
+ratio:2//seed:0//lr:0.0091//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6815 | Test auc 0.8793
+ratio:0//seed:0//lr:0.009//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7010 | Test Macro f1 0.5058 | Test auc 0.7753
+ratio:1//seed:0//lr:0.009//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.7025 | Test auc 0.8944
+ratio:2//seed:0//lr:0.009//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7960 | Test Macro f1 0.6794 | Test auc 0.8793
+ratio:0//seed:0//lr:0.0089//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6990 | Test Macro f1 0.5004 | Test auc 0.7748
+ratio:1//seed:0//lr:0.0089//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.7008 | Test auc 0.8942
+ratio:2//seed:0//lr:0.0089//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6809 | Test auc 0.8793
+ratio:0//seed:0//lr:0.0088//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6940 | Test Macro f1 0.4878 | Test auc 0.7741
+ratio:1//seed:0//lr:0.0088//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.7028 | Test auc 0.8941
+ratio:2//seed:0//lr:0.0088//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6778 | Test auc 0.8792
+ratio:0//seed:0//lr:0.0087//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6930 | Test Macro f1 0.4864 | Test auc 0.7735
+ratio:1//seed:0//lr:0.0087//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.7057 | Test auc 0.8941
+ratio:2//seed:0//lr:0.0087//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7970 | Test Macro f1 0.6760 | Test auc 0.8793
+ratio:0//seed:0//lr:0.0086//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6930 | Test Macro f1 0.4867 | Test auc 0.7727
+ratio:1//seed:0//lr:0.0086//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7097 | Test auc 0.8939
+ratio:2//seed:0//lr:0.0086//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6769 | Test auc 0.8791
+ratio:0//seed:0//lr:0.0085//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6910 | Test Macro f1 0.4797 | Test auc 0.7720
+ratio:1//seed:0//lr:0.0085//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7123 | Test auc 0.8938
+ratio:2//seed:0//lr:0.0085//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7970 | Test Macro f1 0.6754 | Test auc 0.8791
+ratio:0//seed:0//lr:0.0084//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6900 | Test Macro f1 0.4748 | Test auc 0.7713
+ratio:1//seed:0//lr:0.0084//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7123 | Test auc 0.8937
+ratio:2//seed:0//lr:0.0084//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7940 | Test Macro f1 0.6791 | Test auc 0.8805
+ratio:0//seed:0//lr:0.0083//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6870 | Test Macro f1 0.4697 | Test auc 0.7705
+ratio:1//seed:0//lr:0.0083//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7125 | Test auc 0.8935
+ratio:2//seed:0//lr:0.0083//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7970 | Test Macro f1 0.6822 | Test auc 0.8805
+ratio:0//seed:0//lr:0.0082//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6840 | Test Macro f1 0.4639 | Test auc 0.7698
+ratio:1//seed:0//lr:0.0082//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7119 | Test auc 0.8934
+ratio:2//seed:0//lr:0.0082//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6861 | Test auc 0.8805
+ratio:0//seed:0//lr:0.0081//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6830 | Test Macro f1 0.4585 | Test auc 0.7691
+ratio:1//seed:0//lr:0.0081//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7086 | Test auc 0.8932
+ratio:2//seed:0//lr:0.0081//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7950 | Test Macro f1 0.6829 | Test auc 0.8805
+ratio:0//seed:0//lr:0.008//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6820 | Test Macro f1 0.4572 | Test auc 0.7683
+ratio:1//seed:0//lr:0.008//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8070 | Test Macro f1 0.7065 | Test auc 0.8930
+ratio:2//seed:0//lr:0.008//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7960 | Test Macro f1 0.6837 | Test auc 0.8805
+ratio:0//seed:0//lr:0.0079//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6790 | Test Macro f1 0.4528 | Test auc 0.7676
+ratio:1//seed:0//lr:0.0079//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8060 | Test Macro f1 0.7059 | Test auc 0.8928
+ratio:2//seed:0//lr:0.0079//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6867 | Test auc 0.8804
+ratio:0//seed:0//lr:0.0078//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6770 | Test Macro f1 0.4479 | Test auc 0.7667
+ratio:1//seed:0//lr:0.0078//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.7039 | Test auc 0.8925
+ratio:2//seed:0//lr:0.0078//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6863 | Test auc 0.8804
+ratio:0//seed:0//lr:0.0077//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6750 | Test Macro f1 0.4461 | Test auc 0.7659
+ratio:1//seed:0//lr:0.0077//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7850 | Test Macro f1 0.6918 | Test auc 0.8953
+ratio:2//seed:0//lr:0.0077//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6877 | Test auc 0.8804
+ratio:0//seed:0//lr:0.0076//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6730 | Test Macro f1 0.4428 | Test auc 0.7650
+ratio:1//seed:0//lr:0.0076//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7940 | Test Macro f1 0.7024 | Test auc 0.8952
+ratio:2//seed:0//lr:0.0076//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6884 | Test auc 0.8804
+ratio:0//seed:0//lr:0.0075//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6700 | Test Macro f1 0.4370 | Test auc 0.7641
+ratio:1//seed:0//lr:0.0075//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.7063 | Test auc 0.8951
+ratio:2//seed:0//lr:0.0075//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6840 | Test auc 0.8803
+ratio:0//seed:0//lr:0.0074//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6680 | Test Macro f1 0.4334 | Test auc 0.7632
+ratio:1//seed:0//lr:0.0074//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.7120 | Test auc 0.8948
+ratio:2//seed:0//lr:0.0074//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6838 | Test auc 0.8802
+ratio:0//seed:0//lr:0.0073//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6660 | Test Macro f1 0.4266 | Test auc 0.7622
+ratio:1//seed:0//lr:0.0073//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8060 | Test Macro f1 0.7112 | Test auc 0.8947
+ratio:2//seed:0//lr:0.0073//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6845 | Test auc 0.8801
+ratio:0//seed:0//lr:0.0072//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6630 | Test Macro f1 0.4218 | Test auc 0.7612
+ratio:1//seed:0//lr:0.0072//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.7037 | Test auc 0.8945
+ratio:2//seed:0//lr:0.0072//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6826 | Test auc 0.8801
+ratio:0//seed:0//lr:0.0071//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5045 | Test auc 0.7742
+ratio:1//seed:0//lr:0.0071//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8070 | Test Macro f1 0.7074 | Test auc 0.8943
+ratio:2//seed:0//lr:0.0071//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6830 | Test auc 0.8800
+ratio:0//seed:0//lr:0.007//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6980 | Test Macro f1 0.5022 | Test auc 0.7734
+ratio:1//seed:0//lr:0.007//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7073 | Test auc 0.8942
+ratio:2//seed:0//lr:0.007//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6773 | Test auc 0.8798
+ratio:0//seed:0//lr:0.0069//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6980 | Test Macro f1 0.5020 | Test auc 0.7725
+ratio:1//seed:0//lr:0.0069//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7117 | Test auc 0.8939
+ratio:2//seed:0//lr:0.0069//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7980 | Test Macro f1 0.6767 | Test auc 0.8797
+ratio:0//seed:0//lr:0.0068//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6930 | Test Macro f1 0.4910 | Test auc 0.7715
+ratio:1//seed:0//lr:0.0068//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7129 | Test auc 0.8937
+ratio:2//seed:0//lr:0.0068//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7970 | Test Macro f1 0.6848 | Test auc 0.8811
+ratio:0//seed:0//lr:0.0067//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6920 | Test Macro f1 0.4890 | Test auc 0.7705
+ratio:1//seed:0//lr:0.0067//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7130 | Test auc 0.8934
+ratio:2//seed:0//lr:0.0067//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7960 | Test Macro f1 0.6836 | Test auc 0.8812
+ratio:0//seed:0//lr:0.0066//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6920 | Test Macro f1 0.4860 | Test auc 0.7695
+ratio:1//seed:0//lr:0.0066//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7111 | Test auc 0.8931
+ratio:2//seed:0//lr:0.0066//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6858 | Test auc 0.8811
+ratio:0//seed:0//lr:0.0065//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6830 | Test Macro f1 0.4639 | Test auc 0.7685
+ratio:1//seed:0//lr:0.0065//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7111 | Test auc 0.8928
+ratio:2//seed:0//lr:0.0065//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6877 | Test auc 0.8811
+ratio:0//seed:0//lr:0.0064//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6840 | Test Macro f1 0.4656 | Test auc 0.7673
+ratio:1//seed:0//lr:0.0064//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7930 | Test Macro f1 0.7003 | Test auc 0.8952
+ratio:2//seed:0//lr:0.0064//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6884 | Test auc 0.8810
+ratio:0//seed:0//lr:0.0063//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6810 | Test Macro f1 0.4604 | Test auc 0.7660
+ratio:1//seed:0//lr:0.0063//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.7066 | Test auc 0.8950
+ratio:2//seed:0//lr:0.0063//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6884 | Test auc 0.8809
+ratio:0//seed:0//lr:0.0062//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6780 | Test Macro f1 0.4524 | Test auc 0.7648
+ratio:1//seed:0//lr:0.0062//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.7128 | Test auc 0.8947
+ratio:2//seed:0//lr:0.0062//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6845 | Test auc 0.8807
+ratio:0//seed:0//lr:0.0061//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6780 | Test Macro f1 0.4513 | Test auc 0.7636
+ratio:1//seed:0//lr:0.0061//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8070 | Test Macro f1 0.7144 | Test auc 0.8945
+ratio:2//seed:0//lr:0.0061//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6852 | Test auc 0.8806
+ratio:0//seed:0//lr:0.006//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6760 | Test Macro f1 0.4473 | Test auc 0.7624
+ratio:1//seed:0//lr:0.006//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8070 | Test Macro f1 0.7067 | Test auc 0.8942
+ratio:2//seed:0//lr:0.006//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6829 | Test auc 0.8804
+ratio:0//seed:0//lr:0.0059//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6740 | Test Macro f1 0.4448 | Test auc 0.7611
+ratio:1//seed:0//lr:0.0059//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7086 | Test auc 0.8939
+ratio:2//seed:0//lr:0.0059//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6821 | Test auc 0.8803
+ratio:0//seed:0//lr:0.0058//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7010 | Test Macro f1 0.5076 | Test auc 0.7725
+ratio:1//seed:0//lr:0.0058//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7083 | Test auc 0.8935
+ratio:2//seed:0//lr:0.0058//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6832 | Test auc 0.8817
+ratio:0//seed:0//lr:0.0057//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6990 | Test Macro f1 0.5041 | Test auc 0.7713
+ratio:1//seed:0//lr:0.0057//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7113 | Test auc 0.8931
+ratio:2//seed:0//lr:0.0057//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6866 | Test auc 0.8815
+ratio:0//seed:0//lr:0.0056//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6990 | Test Macro f1 0.5029 | Test auc 0.7701
+ratio:1//seed:0//lr:0.0056//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7083 | Test auc 0.8927
+ratio:2//seed:0//lr:0.0056//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6882 | Test auc 0.8814
+ratio:0//seed:0//lr:0.0055//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6960 | Test Macro f1 0.4949 | Test auc 0.7688
+ratio:1//seed:0//lr:0.0055//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7115 | Test auc 0.8923
+ratio:2//seed:0//lr:0.0055//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6877 | Test auc 0.8812
+ratio:0//seed:0//lr:0.0054//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6900 | Test Macro f1 0.4829 | Test auc 0.7673
+ratio:1//seed:0//lr:0.0054//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7130 | Test auc 0.8920
+ratio:2//seed:0//lr:0.0054//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6884 | Test auc 0.8811
+ratio:0//seed:0//lr:0.0053//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6860 | Test Macro f1 0.4728 | Test auc 0.7658
+ratio:1//seed:0//lr:0.0053//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8050 | Test Macro f1 0.7148 | Test auc 0.8942
+ratio:2//seed:0//lr:0.0053//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6849 | Test auc 0.8809
+ratio:0//seed:0//lr:0.0052//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6850 | Test Macro f1 0.4708 | Test auc 0.7642
+ratio:1//seed:0//lr:0.0052//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7145 | Test auc 0.8939
+ratio:2//seed:0//lr:0.0052//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6841 | Test auc 0.8807
+ratio:0//seed:0//lr:0.0051//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6800 | Test Macro f1 0.4590 | Test auc 0.7628
+ratio:1//seed:0//lr:0.0051//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7075 | Test auc 0.8934
+ratio:2//seed:0//lr:0.0051//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6834 | Test auc 0.8807
+ratio:0//seed:0//lr:0.005//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6790 | Test Macro f1 0.4531 | Test auc 0.7613
+ratio:1//seed:0//lr:0.005//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7108 | Test auc 0.8930
+ratio:2//seed:0//lr:0.005//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6834 | Test auc 0.8816
+ratio:0//seed:0//lr:0.0049//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5065 | Test auc 0.7708
+ratio:1//seed:0//lr:0.0049//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7104 | Test auc 0.8925
+ratio:2//seed:0//lr:0.0049//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6879 | Test auc 0.8815
+ratio:0//seed:0//lr:0.0048//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7010 | Test Macro f1 0.5076 | Test auc 0.7692
+ratio:1//seed:0//lr:0.0048//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7094 | Test auc 0.8921
+ratio:2//seed:0//lr:0.0048//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6884 | Test auc 0.8814
+ratio:0//seed:0//lr:0.0047//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5049 | Test auc 0.7676
+ratio:1//seed:0//lr:0.0047//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7117 | Test auc 0.8916
+ratio:2//seed:0//lr:0.0047//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.6891 | Test auc 0.8812
+ratio:0//seed:0//lr:0.0046//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6960 | Test Macro f1 0.4920 | Test auc 0.7659
+ratio:1//seed:0//lr:0.0046//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8060 | Test Macro f1 0.7154 | Test auc 0.8934
+ratio:2//seed:0//lr:0.0046//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6849 | Test auc 0.8809
+ratio:0//seed:0//lr:0.0045//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6910 | Test Macro f1 0.4835 | Test auc 0.7641
+ratio:1//seed:0//lr:0.0045//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7118 | Test auc 0.8930
+ratio:2//seed:0//lr:0.0045//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6833 | Test auc 0.8808
+ratio:0//seed:0//lr:0.0044//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6850 | Test Macro f1 0.4705 | Test auc 0.7624
+ratio:1//seed:0//lr:0.0044//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7082 | Test auc 0.8926
+ratio:2//seed:0//lr:0.0044//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6856 | Test auc 0.8817
+ratio:0//seed:0//lr:0.0043//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6830 | Test Macro f1 0.4687 | Test auc 0.7605
+ratio:1//seed:0//lr:0.0043//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7101 | Test auc 0.8921
+ratio:2//seed:0//lr:0.0043//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6842 | Test auc 0.8816
+ratio:0//seed:0//lr:0.0042//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5064 | Test auc 0.7685
+ratio:1//seed:0//lr:0.0042//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7090 | Test auc 0.8916
+ratio:2//seed:0//lr:0.0042//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6884 | Test auc 0.8813
+ratio:0//seed:0//lr:0.0041//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5072 | Test auc 0.7666
+ratio:1//seed:0//lr:0.0041//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.7128 | Test auc 0.8931
+ratio:2//seed:0//lr:0.0041//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6851 | Test auc 0.8810
+ratio:0//seed:0//lr:0.004//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6990 | Test Macro f1 0.5001 | Test auc 0.7646
+ratio:1//seed:0//lr:0.004//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8070 | Test Macro f1 0.7118 | Test auc 0.8927
+ratio:2//seed:0//lr:0.004//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6852 | Test auc 0.8808
+ratio:0//seed:0//lr:0.0039//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6950 | Test Macro f1 0.4901 | Test auc 0.7627
+ratio:1//seed:0//lr:0.0039//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7116 | Test auc 0.8921
+ratio:2//seed:0//lr:0.0039//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6856 | Test auc 0.8817
+ratio:0//seed:0//lr:0.0038//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6900 | Test Macro f1 0.4815 | Test auc 0.7604
+ratio:1//seed:0//lr:0.0038//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7110 | Test auc 0.8914
+ratio:2//seed:0//lr:0.0038//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6835 | Test auc 0.8813
+ratio:0//seed:0//lr:0.0037//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6830 | Test Macro f1 0.4675 | Test auc 0.7581
+ratio:1//seed:0//lr:0.0037//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7123 | Test auc 0.8908
+ratio:2//seed:0//lr:0.0037//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.6858 | Test auc 0.8811
+ratio:0//seed:0//lr:0.0036//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6990 | Test Macro f1 0.5055 | Test auc 0.7651
+ratio:1//seed:0//lr:0.0036//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7151 | Test auc 0.8923
+ratio:2//seed:0//lr:0.0036//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.6866 | Test auc 0.8808
+ratio:0//seed:0//lr:0.0035//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5057 | Test auc 0.7627
+ratio:1//seed:0//lr:0.0035//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8090 | Test Macro f1 0.7131 | Test auc 0.8916
+ratio:2//seed:0//lr:0.0035//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6849 | Test auc 0.8815
+ratio:0//seed:0//lr:0.0034//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6950 | Test Macro f1 0.4903 | Test auc 0.7604
+ratio:1//seed:0//lr:0.0034//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7116 | Test auc 0.8908
+ratio:2//seed:0//lr:0.0034//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6845 | Test auc 0.8812
+ratio:0//seed:0//lr:0.0033//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6910 | Test Macro f1 0.4851 | Test auc 0.7578
+ratio:1//seed:0//lr:0.0033//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7123 | Test auc 0.8900
+ratio:2//seed:0//lr:0.0033//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.6865 | Test auc 0.8810
+ratio:0//seed:0//lr:0.0032//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7010 | Test Macro f1 0.5088 | Test auc 0.7634
+ratio:1//seed:0//lr:0.0032//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8080 | Test Macro f1 0.7123 | Test auc 0.8914
+ratio:2//seed:0//lr:0.0032//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8050 | Test Macro f1 0.6866 | Test auc 0.8807
+ratio:0//seed:0//lr:0.0031//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5069 | Test auc 0.7608
+ratio:1//seed:0//lr:0.0031//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7127 | Test auc 0.8906
+ratio:2//seed:0//lr:0.0031//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8020 | Test Macro f1 0.6859 | Test auc 0.8813
+ratio:0//seed:0//lr:0.003//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6960 | Test Macro f1 0.4922 | Test auc 0.7582
+ratio:1//seed:0//lr:0.003//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7112 | Test auc 0.8897
+ratio:2//seed:0//lr:0.003//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.6832 | Test auc 0.8811
+ratio:0//seed:0//lr:0.0029//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7060 | Test Macro f1 0.5169 | Test auc 0.7627
+ratio:1//seed:0//lr:0.0029//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.7060 | Test auc 0.8909
+ratio:2//seed:0//lr:0.0029//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8050 | Test Macro f1 0.6866 | Test auc 0.8807
+ratio:0//seed:0//lr:0.0028//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7000 | Test Macro f1 0.5070 | Test auc 0.7598
+ratio:1//seed:0//lr:0.0028//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8120 | Test Macro f1 0.7146 | Test auc 0.8900
+ratio:2//seed:0//lr:0.0028//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.6873 | Test auc 0.8814
+ratio:0//seed:0//lr:0.0027//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6970 | Test Macro f1 0.4959 | Test auc 0.7566
+ratio:1//seed:0//lr:0.0027//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7100 | Test auc 0.8889
+ratio:2//seed:0//lr:0.0027//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.6832 | Test auc 0.8809
+ratio:0//seed:0//lr:0.0026//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7070 | Test Macro f1 0.5219 | Test auc 0.7605
+ratio:1//seed:0//lr:0.0026//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8070 | Test Macro f1 0.7090 | Test auc 0.8900
+ratio:2//seed:0//lr:0.0026//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8060 | Test Macro f1 0.6880 | Test auc 0.8804
+ratio:0//seed:0//lr:0.0025//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7030 | Test Macro f1 0.5123 | Test auc 0.7571
+ratio:1//seed:0//lr:0.0025//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7141 | Test auc 0.8888
+ratio:2//seed:0//lr:0.0025//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8010 | Test Macro f1 0.6808 | Test auc 0.8809
+ratio:0//seed:0//lr:0.0024//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7090 | Test Macro f1 0.5238 | Test auc 0.7603
+ratio:1//seed:0//lr:0.0024//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8050 | Test Macro f1 0.7085 | Test auc 0.8897
+ratio:2//seed:0//lr:0.0024//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8060 | Test Macro f1 0.6880 | Test auc 0.8802
+ratio:0//seed:0//lr:0.0023//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7030 | Test Macro f1 0.5151 | Test auc 0.7566
+ratio:1//seed:0//lr:0.0023//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7137 | Test auc 0.8882
+ratio:2//seed:0//lr:0.0023//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6794 | Test auc 0.8808
+ratio:0//seed:0//lr:0.0022//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7160 | Test Macro f1 0.5361 | Test auc 0.7588
+ratio:1//seed:0//lr:0.0022//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.7079 | Test auc 0.8889
+ratio:2//seed:0//lr:0.0022//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8050 | Test Macro f1 0.6873 | Test auc 0.8800
+ratio:0//seed:0//lr:0.0021//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7050 | Test Macro f1 0.5187 | Test auc 0.7550
+ratio:1//seed:0//lr:0.0021//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8100 | Test Macro f1 0.7117 | Test auc 0.8872
+ratio:2//seed:0//lr:0.0021//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6794 | Test auc 0.8804
+ratio:0//seed:0//lr:0.002//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7150 | Test Macro f1 0.5350 | Test auc 0.7567
+ratio:1//seed:0//lr:0.002//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8050 | Test Macro f1 0.7060 | Test auc 0.8876
+ratio:2//seed:0//lr:0.002//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7990 | Test Macro f1 0.6808 | Test auc 0.8808
+ratio:0//seed:0//lr:0.0019//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7170 | Test Macro f1 0.5441 | Test auc 0.7578
+ratio:1//seed:0//lr:0.0019//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7136 | Test auc 0.8855
+ratio:2//seed:0//lr:0.0019//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8000 | Test Macro f1 0.6781 | Test auc 0.8798
+ratio:0//seed:0//lr:0.0018//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7110 | Test Macro f1 0.5290 | Test auc 0.7532
+ratio:1//seed:0//lr:0.0018//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8110 | Test Macro f1 0.7136 | Test auc 0.8830
+ratio:2//seed:0//lr:0.0018//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7970 | Test Macro f1 0.6788 | Test auc 0.8799
+ratio:0//seed:0//lr:0.0017//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7150 | Test Macro f1 0.5394 | Test auc 0.7533
+ratio:1//seed:0//lr:0.0017//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8040 | Test Macro f1 0.7061 | Test auc 0.8852
+ratio:2//seed:0//lr:0.0017//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7960 | Test Macro f1 0.6786 | Test auc 0.8798
+ratio:0//seed:0//lr:0.0016//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7160 | Test Macro f1 0.5426 | Test auc 0.7531
+ratio:1//seed:0//lr:0.0016//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.8030 | Test Macro f1 0.7040 | Test auc 0.8847
+ratio:2//seed:0//lr:0.0016//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7970 | Test Macro f1 0.6780 | Test auc 0.8786
+ratio:0//seed:0//lr:0.0015//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7160 | Test Macro f1 0.5473 | Test auc 0.7522
+ratio:1//seed:0//lr:0.0015//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7970 | Test Macro f1 0.6985 | Test auc 0.8839
+ratio:2//seed:0//lr:0.0015//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7960 | Test Macro f1 0.6734 | Test auc 0.8782
+ratio:0//seed:0//lr:0.0014//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7150 | Test Macro f1 0.5461 | Test auc 0.7505
+ratio:1//seed:0//lr:0.0014//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7920 | Test Macro f1 0.6934 | Test auc 0.8829
+ratio:2//seed:0//lr:0.0014//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7920 | Test Macro f1 0.6707 | Test auc 0.8789
+ratio:0//seed:0//lr:0.0013//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7210 | Test Macro f1 0.5621 | Test auc 0.7523
+ratio:1//seed:0//lr:0.0013//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7910 | Test Macro f1 0.6901 | Test auc 0.8813
+ratio:2//seed:0//lr:0.0013//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7920 | Test Macro f1 0.6706 | Test auc 0.8781
+ratio:0//seed:0//lr:0.0011//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7180 | Test Macro f1 0.5580 | Test auc 0.7449
+ratio:1//seed:0//lr:0.0011//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7870 | Test Macro f1 0.6878 | Test auc 0.8768
+ratio:2//seed:0//lr:0.0011//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7850 | Test Macro f1 0.6645 | Test auc 0.8756
+ratio:0//seed:0//lr:0.001//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7170 | Test Macro f1 0.5629 | Test auc 0.7435
+ratio:1//seed:0//lr:0.001//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7790 | Test Macro f1 0.6784 | Test auc 0.8734
+ratio:2//seed:0//lr:0.001//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7820 | Test Macro f1 0.6627 | Test auc 0.8749
+ratio:0//seed:0//lr:0.0009//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7050 | Test Macro f1 0.5550 | Test auc 0.7368
+ratio:1//seed:0//lr:0.0009//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7770 | Test Macro f1 0.6793 | Test auc 0.8711
+ratio:2//seed:0//lr:0.0009//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7780 | Test Macro f1 0.6595 | Test auc 0.8737
+ratio:0//seed:0//lr:0.0008//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6960 | Test Macro f1 0.5512 | Test auc 0.7324
+ratio:1//seed:0//lr:0.0008//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7640 | Test Macro f1 0.6670 | Test auc 0.8652
+ratio:2//seed:0//lr:0.0008//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7670 | Test Macro f1 0.6499 | Test auc 0.8706
+ratio:0//seed:0//lr:0.0007//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6550 | Test Macro f1 0.5303 | Test auc 0.7252
+ratio:1//seed:0//lr:0.0007//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7370 | Test Macro f1 0.6418 | Test auc 0.8623
+ratio:2//seed:0//lr:0.0007//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7470 | Test Macro f1 0.6333 | Test auc 0.8661
+ratio:0//seed:0//lr:0.0006//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5730 | Test Macro f1 0.4861 | Test auc 0.7220
+ratio:1//seed:0//lr:0.0006//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6940 | Test Macro f1 0.6122 | Test auc 0.8591
+ratio:2//seed:0//lr:0.0006//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7310 | Test Macro f1 0.6278 | Test auc 0.8682
+ratio:0//seed:0//lr:0.0005//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.4780 | Test Macro f1 0.4354 | Test auc 0.7243
+ratio:1//seed:0//lr:0.0005//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6510 | Test Macro f1 0.5878 | Test auc 0.8604
+ratio:2//seed:0//lr:0.0005//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6750 | Test Macro f1 0.5834 | Test auc 0.8674
+ratio:0//seed:0//lr:0.0004//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.4010 | Test Macro f1 0.3987 | Test auc 0.7982
+ratio:1//seed:0//lr:0.0004//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5860 | Test Macro f1 0.5500 | Test auc 0.8600
+ratio:2//seed:0//lr:0.0004//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6280 | Test Macro f1 0.5594 | Test auc 0.8671
+ratio:0//seed:0//lr:0.0003//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.3910 | Test Macro f1 0.3880 | Test auc 0.7988
+ratio:1//seed:0//lr:0.0003//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5590 | Test Macro f1 0.5393 | Test auc 0.8918
+ratio:2//seed:0//lr:0.0003//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5880 | Test Macro f1 0.5347 | Test auc 0.8678
+ratio:0//seed:0//lr:0.0002//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.3880 | Test Macro f1 0.3860 | Test auc 0.7988
+ratio:1//seed:0//lr:0.0002//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5500 | Test Macro f1 0.5314 | Test auc 0.8898
+ratio:2//seed:0//lr:0.0002//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5810 | Test Macro f1 0.5418 | Test auc 0.8815
+ratio:0//seed:0//lr:0.0001//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.3830 | Test Macro f1 0.3825 | Test auc 0.7986
+ratio:1//seed:0//lr:0.0001//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5090 | Test Macro f1 0.5084 | Test auc 0.8869
+ratio:2//seed:0//lr:0.0001//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.5680 | Test Macro f1 0.5306 | Test auc 0.8793
+
+ratio:0//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7290 | Test Macro f1 0.5745 | Test auc 0.7528
+ratio:1//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7940 | Test Macro f1 0.6929 | Test auc 0.8718
+ratio:2//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7920 | Test Macro f1 0.6707 | Test auc 0.8770
+
+ratio:0//seed:0//lr:0.0012//weight_decay:0.001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.6600 | Test Macro f1 0.4552 | Test auc 0.7174
+ratio:1//seed:0//lr:0.0012//weight_decay:0.001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7600 | Test Macro f1 0.6396 | Test auc 0.8394
+ratio:2//seed:0//lr:0.0012//weight_decay:0.001//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7750 | Test Macro f1 0.6385 | Test auc 0.8570
+
+ratio:0//seed:0//lr:0.0012//weight_decay:1e-05//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7260 | Test Macro f1 0.5694 | Test auc 0.7524
+ratio:1//seed:0//lr:0.0012//weight_decay:1e-05//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7890 | Test Macro f1 0.6884 | Test auc 0.8793
+ratio:2//seed:0//lr:0.0012//weight_decay:1e-05//num_heads:[1]//dropout:0.1
+Test Micro f1 0.7850 | Test Macro f1 0.6634 | Test auc 0.8760
+
+ratio:0//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.2
+Test Micro f1 0.7200 | Test Macro f1 0.5621 | Test auc 0.7479
+ratio:1//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.2
+Test Micro f1 0.7970 | Test Macro f1 0.6975 | Test auc 0.8735
+ratio:2//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.2
+Test Micro f1 0.7920 | Test Macro f1 0.6710 | Test auc 0.8774
+
+ratio:0//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.3
+Test Micro f1 0.7120 | Test Macro f1 0.5514 | Test auc 0.7449
+ratio:1//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.3
+Test Micro f1 0.8010 | Test Macro f1 0.7013 | Test auc 0.8762
+ratio:2//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[1]//dropout:0.3
+Test Micro f1 0.7930 | Test Macro f1 0.6709 | Test auc 0.8786
+
+ratio:0//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[2]//dropout:0.1
+Test Micro f1 0.7540 | Test Macro f1 0.6069 | Test auc 0.8067
+ratio:1//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[2]//dropout:0.1
+Test Micro f1 0.8160 | Test Macro f1 0.7196 | Test auc 0.9009
+ratio:2//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[2]//dropout:0.1
+Test Micro f1 0.7960 | Test Macro f1 0.6881 | Test auc 0.8881
+
+ratio:0//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[3]//dropout:0.1
+Test Micro f1 0.6650 | Test Macro f1 0.5493 | Test auc 0.7671
+ratio:1//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[3]//dropout:0.1
+Test Micro f1 0.7490 | Test Macro f1 0.6759 | Test auc 0.8734
+ratio:2//seed:0//lr:0.0012//weight_decay:0.0001//num_heads:[3]//dropout:0.1
+Test Micro f1 0.7590 | Test Macro f1 0.6733 | Test auc 0.8759
